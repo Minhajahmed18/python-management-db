@@ -1,0 +1,20 @@
+std1=students()
+std1.name='Minhaj'
+std1.address='H#no 99820'
+std1.age=89
+std1.entry='3/5/20'
+std1.father_name='Abbu'
+std1.personal_phone_no='+92-333564329'
+std1.parent_phone_no='+92-333564378'
+
+std1.save_tofile()
+
+std2=students()
+std2.name='Minhaj'
+std2.address='H#no 99820'
+std2.age=89
+std2.entry='3/5/20'
+std2.father_name='Abbu'
+std2.personal_phone_no='+92-333564329'
+std2.parent_phone_no='+92-333564378'
+std1.save_tofile()
